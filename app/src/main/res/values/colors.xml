@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema Hijau Baru -->
+    <color name="green_200">#FF81C784</color>
+    <color name="green_500">#FF349a47</color>
+    <color name="green_700">#FF2E7D32</color>
+
+    <!-- Warna Aksen -->
+    <color name="green_accent">#FF4CAF50</color>
+    <color name="green_light">#FFA5D6A7</color>
+
+    <!-- Warna Dasar -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Warna untuk Status -->
+    <color name="success_green">#FF4CAF50</color>
+    <color name="error_red">#FFF44336</color>
+    <color name="warning_orange">#FFFF9800</color>
+
+    <!-- Backward compatibility (jika ada referensi lama) -->
+    <color name="purple_200">#FF81C784</color>
+    <color name="purple_500">#FF349a47</color>
+    <color name="purple_700">#FF2E7D32</color>
+    <color name="teal_200">#FF81C784</color>
+    <color name="teal_700">#FF2E7D32</color>
+</resources>
